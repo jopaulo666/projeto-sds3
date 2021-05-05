@@ -1,0 +1,5 @@
+package com.jopaulo.dsvendas.config;
+
+public class SecurityConfig {
+
+}
