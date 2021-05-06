@@ -566,3 +566,63 @@
 2021-05-05 11:57:01,682 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2021-05-05 11:57:01,683 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
 2021-05-05 11:57:01,683 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joao/Documentos/Workspace-STS/ws-devsuperior/projeto-sds3/backend/dsvendas/src/test/resources
+2021-05-05 12:18:33,742 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 12:18:33,742 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-05 12:18:33,742 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-05 12:18:33,765 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-05-05 12:18:33,769 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 12:18:33,769 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-05 12:18:33,769 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joao/Documentos/Workspace-STS/ws-devsuperior/projeto-sds3/backend/dsvendas/src/test/resources
+2021-05-05 12:40:48,646 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 12:40:48,646 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-05 12:40:48,646 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-05 12:40:48,671 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-05-05 12:40:48,673 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 12:40:48,673 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-05 12:40:48,673 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joao/Documentos/Workspace-STS/ws-devsuperior/projeto-sds3/backend/dsvendas/src/test/resources
+2021-05-05 12:44:09,737 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 12:44:09,737 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-05 12:44:09,738 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-05 12:44:09,775 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-05-05 12:44:09,778 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 12:44:09,778 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-05 12:44:09,778 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joao/Documentos/Workspace-STS/ws-devsuperior/projeto-sds3/backend/dsvendas/src/test/resources
+2021-05-05 12:45:34,015 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 12:45:34,015 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-05 12:45:34,016 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-05 12:45:34,025 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-05-05 12:45:34,037 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 12:45:34,037 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-05 12:45:34,037 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joao/Documentos/Workspace-STS/ws-devsuperior/projeto-sds3/backend/dsvendas/src/test/resources
+2021-05-05 13:25:03,912 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 13:25:03,913 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-05 13:25:03,913 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-05 13:25:03,942 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-05-05 13:25:03,947 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 13:25:03,947 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-05 13:25:03,947 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joao/Documentos/Workspace-STS/ws-devsuperior/projeto-sds3/backend/dsvendas/src/test/resources
+2021-05-05 13:36:46,316 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 13:36:46,316 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-05 13:36:46,316 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-05 13:36:46,347 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-05-05 13:36:46,349 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 13:36:46,349 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-05 13:36:46,350 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joao/Documentos/Workspace-STS/ws-devsuperior/projeto-sds3/backend/dsvendas/src/test/resources
+2021-05-05 13:44:07,529 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 13:44:07,529 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-05 13:44:07,530 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-05 13:44:07,547 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-05-05 13:44:07,550 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 13:44:07,550 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-05 13:44:07,550 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joao/Documentos/Workspace-STS/ws-devsuperior/projeto-sds3/backend/dsvendas/src/test/resources
+2021-05-05 13:46:08,334 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 13:46:08,334 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-05 13:46:08,335 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-05 13:46:08,346 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-05-05 13:46:08,348 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-05 13:46:08,348 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-05 13:46:08,348 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joao/Documentos/Workspace-STS/ws-devsuperior/projeto-sds3/backend/dsvendas/src/test/resources
+2021-05-05 13:48:45,075 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@7d2768e4{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2021-05-05 13:48:45,076 [Stop Help Server] INFO  org.eclipse.jetty.server.session - node0 Stopped scavenging
+2021-05-05 13:48:45,084 [Stop Help Server] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@2ae419d0{/help,null,STOPPED}
+2021-05-05 20:49:20,439 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.

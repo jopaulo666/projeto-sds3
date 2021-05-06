@@ -1,0 +1,5 @@
+package com.jopaulo.dsvendas.controllers;
+
+public class SellerController {
+
+}

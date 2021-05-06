@@ -1,0 +1,5 @@
+package com.jopaulo.dsvendas.repository;
+
+public interface SellerRepository {
+
+}
