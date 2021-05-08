@@ -17,13 +17,11 @@ public class SellerController {
 
 	@Autowired
 	private SellerService service;
-	
+
 	@GetMapping
-	public ResponseEntity<List<SellerDTO>> findAll(){
+	public ResponseEntity<List<SellerDTO>> findAll() {
 		List<SellerDTO> list = service.findAll();
 		return ResponseEntity.ok(list);
-	}
+	}	
 	
-	// https://devsuperior.com.br/evento?episodio=2
-	// 2:13:00
 }
