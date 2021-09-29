@@ -14,13 +14,13 @@ https://jopaulo-vendas.netlify.app/
 
 ## Tecnologias Utilizadas
 
-### Back end
+### Backend
 - Java
 - Spring Boot
 - JPA
 - Maven
 
-### Front end
+### Frontend
 - HTML / CSS / JS / TypeScript
 - React
 
